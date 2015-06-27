@@ -21,7 +21,7 @@ Cuba.define do
     end
  
     on root do
-      res.write names_routes.to_s
+      res.write names_routes
     end
 
   end
