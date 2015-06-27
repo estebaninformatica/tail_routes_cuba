@@ -1,4 +1,3 @@
-# cat hello_world.rb
 require "cuba"
 require "cuba/safe"
 
